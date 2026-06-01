@@ -1,2 +1,2 @@
 # Arduino
-Arduino scripts
+Arduino scripts for ttgo t-display
